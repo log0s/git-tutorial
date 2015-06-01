@@ -1,3 +1,3 @@
 # Stuff goes here
 
-print 'Hello World'
+print 'Hello Panda'
